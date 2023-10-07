@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Spidey</h1>
+<h1 align="center">Hi 👋, I'm Sanyam</h1>
 <h3 align="center">A passionate data analyst :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam-0311&label=Profile%20views&color=0e75b6&style=flat" alt="sanyam-0311" /> </p>
